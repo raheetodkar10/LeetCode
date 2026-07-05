@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raheetodkar10/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
