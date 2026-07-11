@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 | [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 | [2733-neither-minimum-nor-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Binary Search
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
