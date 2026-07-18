@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/raheetodkar10/LeetCode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/raheetodkar10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 | [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raheetodkar10/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/raheetodkar10/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
