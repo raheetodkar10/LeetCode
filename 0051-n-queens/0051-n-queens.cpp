@@ -5,7 +5,7 @@ public:
         //check 3 directions: (Q can go in 8 directions, but the only applicable are these 3(for a new Q to insert))
         //left horizontal 
         for(int i=0;i<col;i++){
-            if(board[row][i]=='Q'){
+            if(board[row][i]=='Q'){  //Queens directly nahi place kru shakat, adhi check karayla hava place kru shakto ki nai
                 //mtlb same row me Q he, so attack hoga
                 return false;
             }
@@ -60,15 +60,17 @@ public:
                 //baki recursion
                 solve(board,ans,n,col+1);  //col+1:current col mde queen placed, now move forward
                 //backtracking
-                board[row][col]='.';
+                board[row][col]='.';   //ajun solutions kadayche ahet so
             }    
         }
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>>ans;
-        vector<vector<char>> board(n,vector<char>(n,'.'));  //n*n board initialized with '.' (n is no. of rows and uske andar '.')
+        vector<vector<char>> board(n,vector<char>(n,'.'));  //saglya queens sathi ek board lagnar store karayla so. n*n board initialized with '.' (n is no. of rows and uske andar '.')
         solve(board,ans,n,0);
-        //int col=0;
+        int col=0;   //starting with col=0
         return ans;    
     }
 };
+//board denotes 1 arrangement, ans ki 1 row denotes 1 ans ie total 4 arrangements
+//same code can be done using map (optimised)
