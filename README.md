@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raheetodkar10/LeetCode/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raheetodkar10/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raheetodkar10/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raheetodkar10/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/raheetodkar10/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raheetodkar10/LeetCode/tree/master/0342-power-of-four) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raheetodkar10/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raheetodkar10/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raheetodkar10/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raheetodkar10/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raheetodkar10/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
