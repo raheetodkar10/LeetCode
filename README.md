@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 | [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/raheetodkar10/LeetCode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raheetodkar10/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raheetodkar10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raheetodkar10/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2733-neither-minimum-nor-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 ## Matrix
 |  |
@@ -81,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/raheetodkar10/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/raheetodkar10/LeetCode/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
