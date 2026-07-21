@@ -6,7 +6,7 @@ public:
             return;   //base case
         } 
         int mid = s + (e - s) / 2;
-        swap(nums[mid], nums[e]);
+        swap(nums[mid], nums[e]);   //without this and above this line gives tle, so added them
         int pivot=e;
         int i=s-1;
         //int j=s;
