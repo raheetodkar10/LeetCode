@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 | [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/raheetodkar10/LeetCode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/raheetodkar10/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raheetodkar10/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/raheetodkar10/LeetCode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raheetodkar10/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/raheetodkar10/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/raheetodkar10/LeetCode/tree/master/2652-sum-multiples) |
@@ -174,4 +176,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raheetodkar10/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
