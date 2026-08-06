@@ -40,7 +40,7 @@ public:    //linear tc
         reverse(nextAns.begin(),nextAns.end());
         //this is imp and me bhul jati hu
         for(int i=0;i<nextAns.size();i++){
-            if(nextAns[i] == -1){   //If there is no smaller element on the right, it means the rectangle can extend all the way to end of histogram. So instead of -1, we use nextAns.size() which is the index just after last element
+            if(nextAns[i] == -1){   //If there is no smaller element on the right, it means the rectangle can extend all the way to end of histogram. So instead of -1, we use nextAns.size() which is the index just after last element. Means jithe -1 yeto tithe nextAns.size() chi value ghayaychi that will make it easy to find nextAns[i]-prevAns[i]-1
                 nextAns[i] = nextAns.size();
             }
         }
