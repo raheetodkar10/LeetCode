@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/raheetodkar10/LeetCode/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raheetodkar10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/raheetodkar10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/raheetodkar10/LeetCode/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/raheetodkar10/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/raheetodkar10/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
