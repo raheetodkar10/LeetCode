@@ -28,5 +28,18 @@ public:
             //petrol kam pad gaya
             return -1;
         } 
+        
+        /* Another appr:
+        int surplus=0,deficit=0,start=0;  //surplus represents how much gas you currently have left after traveling through the stations so far
+        for(int i=0;i<gas.size();i++){
+            surplus += gas[i]-cost[i];
+            if(surplus < 0){
+                deficit += -surplus;  //we want deficit to store the positive amount of gas we are short by (surplus he negative val asnar, deficit will make it positive)
+                start = i+1;
+                surplus=0;
+            }
+        }
+        if(surplus-deficit >= 0) return start;
+        return -1;  */
     }
 };
