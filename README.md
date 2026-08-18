@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/raheetodkar10/LeetCode/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/raheetodkar10/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/raheetodkar10/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raheetodkar10/LeetCode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/raheetodkar10/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/raheetodkar10/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raheetodkar10/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/raheetodkar10/LeetCode/tree/master/0412-fizz-buzz) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raheetodkar10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/raheetodkar10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/raheetodkar10/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/raheetodkar10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raheetodkar10/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
