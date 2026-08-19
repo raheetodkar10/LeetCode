@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raheetodkar10/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raheetodkar10/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/raheetodkar10/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Math
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raheetodkar10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raheetodkar10/LeetCode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/raheetodkar10/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/raheetodkar10/LeetCode/tree/master/1446-consecutive-characters) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/raheetodkar10/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raheetodkar10/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raheetodkar10/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raheetodkar10/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
