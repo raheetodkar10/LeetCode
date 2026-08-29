@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raheetodkar10/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/raheetodkar10/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/raheetodkar10/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/raheetodkar10/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raheetodkar10/LeetCode/tree/master/0342-power-of-four) |
