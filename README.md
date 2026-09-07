@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/raheetodkar10/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/raheetodkar10/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/raheetodkar10/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/raheetodkar10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raheetodkar10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/raheetodkar10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/raheetodkar10/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/raheetodkar10/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/raheetodkar10/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/raheetodkar10/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raheetodkar10/LeetCode/tree/master/0342-power-of-four) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/raheetodkar10/LeetCode/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
