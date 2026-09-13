@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raheetodkar10/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/raheetodkar10/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/raheetodkar10/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/raheetodkar10/LeetCode/tree/master/0704-binary-search) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/raheetodkar10/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/raheetodkar10/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/raheetodkar10/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raheetodkar10/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/raheetodkar10/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
