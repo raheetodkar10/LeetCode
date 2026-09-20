@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/raheetodkar10/LeetCode/tree/master/0649-dota2-senate) |
 | [1108-defanging-an-ip-address](https://github.com/raheetodkar10/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/raheetodkar10/LeetCode/tree/master/1446-consecutive-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/raheetodkar10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3110-score-of-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/raheetodkar10/LeetCode/tree/master/3340-check-balanced-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/raheetodkar10/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/raheetodkar10/LeetCode/tree/master/0412-fizz-buzz) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/raheetodkar10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raheetodkar10/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3701-compute-alternating-sum](https://github.com/raheetodkar10/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/raheetodkar10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/raheetodkar10/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/raheetodkar10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Depth-First Search
 |  |
 | ------- |
