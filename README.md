@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/raheetodkar10/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/raheetodkar10/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/raheetodkar10/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/raheetodkar10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raheetodkar10/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raheetodkar10/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
