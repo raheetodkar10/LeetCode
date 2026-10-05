@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/raheetodkar10/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/raheetodkar10/LeetCode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/raheetodkar10/LeetCode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/raheetodkar10/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1527-patients-with-a-condition](https://github.com/raheetodkar10/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/raheetodkar10/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/raheetodkar10/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
