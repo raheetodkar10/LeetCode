@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/raheetodkar10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/raheetodkar10/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/raheetodkar10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/raheetodkar10/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/raheetodkar10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/raheetodkar10/LeetCode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/raheetodkar10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raheetodkar10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/raheetodkar10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/raheetodkar10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/raheetodkar10/LeetCode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/raheetodkar10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0341-flatten-nested-list-iterator](https://github.com/raheetodkar10/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -482,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raheetodkar10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/raheetodkar10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
