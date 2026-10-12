@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raheetodkar10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/raheetodkar10/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/raheetodkar10/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/raheetodkar10/LeetCode/tree/master/0049-group-anagrams) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raheetodkar10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raheetodkar10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/raheetodkar10/LeetCode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -502,5 +504,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raheetodkar10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
