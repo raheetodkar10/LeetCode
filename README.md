@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/raheetodkar10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0649-dota2-senate](https://github.com/raheetodkar10/LeetCode/tree/master/0649-dota2-senate) |
+| [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/raheetodkar10/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/raheetodkar10/LeetCode/tree/master/1446-consecutive-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/raheetodkar10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raheetodkar10/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/raheetodkar10/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raheetodkar10/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/raheetodkar10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raheetodkar10/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/raheetodkar10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0341-flatten-nested-list-iterator](https://github.com/raheetodkar10/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raheetodkar10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
 ## Rolling Hash
 |  |
 | ------- |
