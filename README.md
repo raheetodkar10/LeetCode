@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/raheetodkar10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/raheetodkar10/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/raheetodkar10/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Minimax
 |  |
