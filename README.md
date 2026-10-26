@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/raheetodkar10/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/raheetodkar10/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/raheetodkar10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/raheetodkar10/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/raheetodkar10/LeetCode/tree/master/0704-binary-search) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raheetodkar10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/raheetodkar10/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/raheetodkar10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/raheetodkar10/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/raheetodkar10/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/raheetodkar10/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raheetodkar10/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/raheetodkar10/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/raheetodkar10/LeetCode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/raheetodkar10/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -558,4 +561,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/raheetodkar10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/raheetodkar10/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/raheetodkar10/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
