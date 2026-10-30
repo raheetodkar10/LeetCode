@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raheetodkar10/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/raheetodkar10/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/raheetodkar10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Depth-First Search
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/raheetodkar10/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/raheetodkar10/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/raheetodkar10/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/raheetodkar10/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Minimax
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raheetodkar10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/raheetodkar10/LeetCode/tree/master/0134-gas-station) |
 | [0649-dota2-senate](https://github.com/raheetodkar10/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Tree
 |  |
 | ------- |
@@ -582,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/raheetodkar10/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
