@@ -7,8 +7,8 @@ public:
         }
         //hr no. include nai kr sakte, but exclude kr sakte he
         int includeAns = 0;
-        if(prev == -1 || arr[curr] > arr[prev]){
-            //we will include
+        if(prev == -1 || arr[curr] > arr[prev]){  //i'll always include 1st no. as prev tyachya adhi yenar and that no. will always be greater then prev  
+            //we will include(prev tevach pudhe janar jevha apn include kru)
             includeAns = 1 + solveByRec(arr, curr+1, curr); //prev jithe adhi curr hota tikde janar
         }
         int excludeAns = 0 + solveByRec(arr, curr+1, prev);  //curr tr include hotch rahnar
@@ -32,7 +32,7 @@ public:
         if(prev == -1 || arr[curr] > arr[prev]){   //here prev==-1 initialized already so ethe prev+1 nahi kela
             //we will include
             includeAns = 1 + solveByMem(arr, curr+1, curr, dp); //prev jithe adhi curr hota tikde janar
-        }
+        }  //apn last no. cha pn track thevtoy so prev wont become prev+1, it will become equal to curr
         int excludeAns = 0 + solveByMem(arr, curr+1, prev, dp);  //curr tr include hotch rahnar
         int finalAns = max(includeAns, excludeAns);
         //step2: store ans
@@ -67,6 +67,44 @@ public:
         return dp[0][0]; //from int prev = -1, int curr = 0; but apn col index +1 kelay so -1+1=0 in col
     }
 
+    int solveByTabulationSO(vector<int>& arr){  //SC:O(2n)
+        int n = arr.size();
+        vector<int> currRow(n+1, 0); 
+        vector<int> nextRow(n+1, 0); 
+
+        for(int curr=n-1;curr>=0;curr--){   
+            for(int prev=curr-1;prev>=-1;prev--){  
+                int includeAns = 0;
+                if(prev == -1 || arr[curr] > arr[prev]){   
+                    includeAns = 1 + nextRow[curr+1]; 
+                }
+                int excludeAns = 0 + nextRow[prev+1];  
+                int finalAns = max(includeAns, excludeAns);
+                currRow[prev+1] = finalAns;
+            }
+            //shift
+            nextRow = currRow;
+        }
+        return nextRow[0]; 
+    }
+
+    int solveByBinarySearch(vector<int>& num){   //TC:(n log n), SC:O(n)
+        vector<int> ans;
+        //initial state
+        ans.push_back(num[0]);  //first no. apn nehmi include karnar ch as it doesnt have any prev no.
+        for(int i=1;i<num.size();i++){   //0th index already handle kelay so started from 1
+            if(num[i] > ans.back()){   //jr curr no. ans chya rightmost no. peksha motha ahe then include it
+                ans.push_back(num[i]);
+            }
+            else{  //jst bada no. exist karta hei, jr motha nahey tr replace karaych. For that we need to find its index by lower bound
+                int index = lower_bound(ans.begin(), ans.end(), num[i]) - ans.begin(); //this will give an iterator. After minus, we'll get diff, that will be an index
+                //replace
+                ans[index] = num[i];
+            }
+        }
+        return ans.size();
+    }
+
     int lengthOfLIS(vector<int>& nums) {
         int prev = -1;
         int curr = 0;
@@ -81,7 +119,7 @@ public:
         int ans = solveByMem(nums, curr, prev, dp);
         return ans;*/
         //Bottom up
-        int ans = solveByTabulation(nums);
+        int ans = solveByBinarySearch(nums);
         return ans;
     }
 };
