@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/raheetodkar10/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/raheetodkar10/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [3436-find-valid-emails](https://github.com/raheetodkar10/LeetCode/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/raheetodkar10/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Counting Sort
 |  |
 | ------- |
