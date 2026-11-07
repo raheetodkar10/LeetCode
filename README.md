@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raheetodkar10/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/raheetodkar10/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/raheetodkar10/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/raheetodkar10/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/raheetodkar10/LeetCode/tree/master/0049-group-anagrams) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/raheetodkar10/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/raheetodkar10/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
