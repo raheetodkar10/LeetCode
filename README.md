@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raheetodkar10/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raheetodkar10/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/raheetodkar10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raheetodkar10/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raheetodkar10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raheetodkar10/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/raheetodkar10/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
