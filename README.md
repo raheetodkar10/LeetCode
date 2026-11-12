@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raheetodkar10/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raheetodkar10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/raheetodkar10/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/raheetodkar10/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/raheetodkar10/LeetCode/tree/master/0048-rotate-image) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raheetodkar10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/raheetodkar10/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/raheetodkar10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/raheetodkar10/LeetCode/tree/master/0141-linked-list-cycle) |
