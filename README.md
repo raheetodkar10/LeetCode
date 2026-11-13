@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/raheetodkar10/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/raheetodkar10/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/raheetodkar10/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/raheetodkar10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/raheetodkar10/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/raheetodkar10/LeetCode/tree/master/1051-height-checker) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/raheetodkar10/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/raheetodkar10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
