@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/raheetodkar10/LeetCode/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/raheetodkar10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raheetodkar10/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/raheetodkar10/LeetCode/tree/master/3340-check-balanced-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/raheetodkar10/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/raheetodkar10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raheetodkar10/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/raheetodkar10/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3701-compute-alternating-sum](https://github.com/raheetodkar10/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/raheetodkar10/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/raheetodkar10/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
