@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/raheetodkar10/LeetCode/tree/master/0649-dota2-senate) |
 | [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/raheetodkar10/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/raheetodkar10/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/raheetodkar10/LeetCode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raheetodkar10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raheetodkar10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raheetodkar10/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
+| [0771-jewels-and-stones](https://github.com/raheetodkar10/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raheetodkar10/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/raheetodkar10/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raheetodkar10/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
