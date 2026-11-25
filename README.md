@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raheetodkar10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/raheetodkar10/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/raheetodkar10/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/raheetodkar10/LeetCode/tree/master/0649-dota2-senate) |
 | [0676-implement-magic-dictionary](https://github.com/raheetodkar10/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/raheetodkar10/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/raheetodkar10/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/raheetodkar10/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/raheetodkar10/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/raheetodkar10/LeetCode/tree/master/0877-stone-game) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/raheetodkar10/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/raheetodkar10/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
